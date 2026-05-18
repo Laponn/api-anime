@@ -1,0 +1,22 @@
+[
+  {
+    "judul": "One Piece",
+    "genre": "Action, Adventure",
+    "gambar": "Onepiece"
+  },
+  {
+    "judul": "Naruto Shippuden",
+    "genre": "Action, Martial Arts",
+    "gambar": "Narutoo"
+  },
+  {
+    "judul": "Dragon Ball Z",
+    "genre": "Action, Fantasy",
+    "gambar": "DragonBall"
+  },
+  {
+    "judul": "Bleach",
+    "genre": "Action, Supernatural",
+    "gambar": "Bleachanime"
+  }
+]
